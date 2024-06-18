@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Cricket-Players-collection)
+Goal - I want contributors to help me list some favorite Cricket Players Name.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Anime.
+1. Shahid Afridi
+2. Babar Azam
+3. AB Devilliers
+4. Brett Lee
+5. Virat Kohli
+6. Sachin
+7. waseem Akram
+8. Imran Khan
+9. Azam Khan
+10. Shaheen Afridi
