@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (Cricket-Players-collection)
 Goal - I want contributors to help me list some favorite Cricket Players Name.
 
-# List of Anime.
+# List of Players.
 1. Shahid Afridi
 2. Babar Azam
 3. AB Devilliers
