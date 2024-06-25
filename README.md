@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Murash FC
 - Barcelona 
 - Giravanz Kitakyushu
+- FC Tokyo
