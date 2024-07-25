@@ -31,3 +31,4 @@ Goal - I want contributors to help me list some favorite noodles.
 10. Tantan men</br>
 11. Mentaiko Kamatama Udon
 12. Bubuka</br>
+13. soba</>
